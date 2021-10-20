@@ -22,4 +22,4 @@ app.get('/goodbye/until/forever', (req, res) => {
 });
 
 const port = 5000;
-app.listen(5000, () => console.log('Server is listening on port', port));
+app.listen(port, () => console.log('Server is listening on port', port));
