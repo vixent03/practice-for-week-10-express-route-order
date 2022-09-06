@@ -31,7 +31,7 @@ Expected response: `Goodbye, my friend!`
 
 Expected response: `Have a nice day! See you tomorrow.`
 
-### Route: `/goodbye/forever`
+### Route: `/goodbye/until/forever`
 
 Expected response: `So long. Farewell. Have a great life!`
 
